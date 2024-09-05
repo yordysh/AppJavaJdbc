@@ -17,15 +17,15 @@ public class Category {
     public Category() {
     }
 
-    public Category(Long id, String name, String description, String urlKey, String state, LocalDateTime createdAt, LocalDateTime updatedAt) {
-        this.id = id;
-        this.name = name;
-        this.description = description;
-        this.urlKey = urlKey;
-        this.state = state;
-        this.createdAt = createdAt;
-        this.updatedAt = updatedAt;
-    }
+//    public Category(Long id, String name, String description, String urlKey, String state, LocalDateTime createdAt, LocalDateTime updatedAt) {
+//        this.id = id;
+//        this.name = name;
+//        this.description = description;
+//        this.urlKey = urlKey;
+//        this.state = state;
+//        this.createdAt = createdAt;
+//        this.updatedAt = updatedAt;
+//    }
 //Encasulations
 
     public Long getId() {
